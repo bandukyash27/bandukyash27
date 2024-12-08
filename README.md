@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,Html**
 
 - 📫 How to reach me **byaswanth899@gmail.com**
 
